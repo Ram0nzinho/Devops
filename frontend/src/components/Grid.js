@@ -13,6 +13,8 @@ const Table = styled.table`
   max-width: 1120px;
   margin: 20px auto;
   word-break: break-all;
+  background-color: #0979b0;
+  
 `;
 
 export const Thead = styled.thead``;
